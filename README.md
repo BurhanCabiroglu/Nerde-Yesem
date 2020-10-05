@@ -31,22 +31,23 @@ In this project, it is aimed to take the user's location and show all the inform
   
 
 ## USER MANUEL
-
+#### 0) Launch Screen
+![0](https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/launchScreen.png | width=100 )
 
 #### 1) To use application, first of all you must create an account
-![1](https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/signUpScreen.png)
+![1](https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/signUpScreen.png | width=100 )
 
 
 #### 2) After creating an account you can login
-![2](https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/loginScreen.png)
+![2](https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/loginScreen.png | width=100 )
 
 
 #### 3) If you enter your information incorrectly, you will see an error message.
-![3](https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/signUpScreen.png)
+![3](https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/signUpScreen.png | width=100)
 
 
 #### 4) After entering your information correctly, the dashboard screen will open. This screen will contain the names of the restaurants you have visited in the past and the restaurant search button.
-![4](https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/main.png)
+![4](https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/main.png | width=100)
 
 
 #### 5) To use application, first of all you must create an account
