@@ -8,27 +8,27 @@ In this project, it is aimed to take the user's location and show all the inform
 
 ### PAGES && CLASS && FRAMEWORKS
 
-#### CLASSES && S
-  ##### WebService Class
-  ##### UserModel Class
-  ##### StaticModel Class
-  ##### Place Struct
+#### CLASSES && STRUCTS
+  • WebService Class
+  • UserModel Class
+  • StaticModel Class
+  • Place Struct
 
 #### VIEW CONTROLLERS
-  ##### LocationViewController
-  ##### HomeViewController
-  ##### ViewController
-  ##### SignUpViewController
-  ##### PreferencesViewController
+  • LocationViewController
+  • HomeViewController
+  • ViewController
+  • SignUpViewController
+  • PreferencesViewController
   
 
-	•	MapKit
-	•	LocationManager
-	•	Pandas
-	•	Scikit-Learn
-	•	Matplotlib 
-	•	OpenCV
-	•	Tensorflow
+#### FRAMEWORKS
+  • MapKit
+  • LocationManager
+  • FaceID and TouchID 
+  • Firebase
+  • Firestore
+  
 
 #### TESTS
 
