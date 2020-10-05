@@ -30,20 +30,35 @@ In this project, it is aimed to take the user's location and show all the inform
     • Firestore
   
 
-## USER MANUEl
+## USER MANUEL
 
 
-##### Angry
-![Angry](https://github.com/geniusxburhan/Face-Emotions-Recognizer/blob/master/kaynakKod/angry.png)
+## 1) To use application, first of all you must create an account
+![1](https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/signUpScreen.png)
+
+
+## 2) To use application, first of all you must create an account
+![2](https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/signUpScreen.png)
+
+
+## 3) To use application, first of all you must create an account
+![3](https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/signUpScreen.png)
+
+
+## 4) To use application, first of all you must create an account
+![4](https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/signUpScreen.png)
+
+
+## 5) To use application, first of all you must create an account
+![5](https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/signUpScreen.png)
+
+
+## 6) To use application, first of all you must create an account
+![6](https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/signUpScreen.png)
+
+
+## 7) To use application, first of all you must create an account
+![7](https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/signUpScreen.png)
 
 
 
-##### Happy
-![Happy](https://github.com/geniusxburhan/Face-Emotions-Recognizer/blob/master/kaynakKod/happy.png)
-
-
-##### Confused
-![Confused](https://github.com/geniusxburhan/Face-Emotions-Recognizer/blob/master/kaynakKod/o.png)
-
-##### Neutral
-![Neutral](https://github.com/geniusxburhan/Face-Emotions-Recognizer/blob/master/kaynakKod/neutral.png)
