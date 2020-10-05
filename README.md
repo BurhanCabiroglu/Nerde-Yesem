@@ -32,8 +32,7 @@ In this project, it is aimed to take the user's location and show all the inform
 
 ## USER MANUEL
 #### 0) Launch Screen
-![0](https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/launchScreen.png){:height="10%" width="10%"}
-<img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/launchScreen.png" width="50" height="50">
+<img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/launchScreen.png" width="300">
 
 #### 1) To use application, first of all you must create an account
 ![1](https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/signUpScreen.png){:class="img-responsive"}
