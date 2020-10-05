@@ -1,25 +1,34 @@
-# Face-Emotions-Recognizer
-Face Emotions Recognizer that designed with Python
-
-## FACE EMOTIONS DETECTION WITH CNN
+# Nerde Yesem Application
+"Nerde Yesem Application" that designed with Swift
 
 #### ABSTRACT
 
-In this study, the real-time images taken from the user and the sense of instantness of the user according to the facial expression were tried to be estimated. The opencv library and CNN algorithm were used in the study. 50% success was achieved.
+In this project, it is aimed to take the user's location and show all the information about the nearest restaurants.
 
 
-#### USED FRAMEWORKS
+### PAGES && CLASS && FRAMEWORKS
 
-	•	Keras
-	•	Numpy
+#### CLASSES && S
+  ##### WebService Class
+  ##### UserModel Class
+  ##### StaticModel Class
+  ##### Place Struct
+
+#### VIEW CONTROLLERS
+  ##### LocationViewController
+  ##### HomeViewController
+  ##### ViewController
+  ##### SignUpViewController
+  ##### PreferencesViewController
+  
+
+	•	MapKit
+	•	LocationManager
 	•	Pandas
 	•	Scikit-Learn
 	•	Matplotlib 
 	•	OpenCV
 	•	Tensorflow
-
-
-#### 0:Angry, 1: Disgust, 2: Fear, 3: Happy, 4: Sad, 5: Surprise, 6: Neutral
 
 #### TESTS
 
