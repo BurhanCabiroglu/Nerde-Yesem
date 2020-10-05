@@ -1,0 +1,6 @@
+framework module Pods_nerdeyesem {
+  umbrella header "Pods-nerdeyesem-umbrella.h"
+
+  export *
+  module * { export * }
+}
