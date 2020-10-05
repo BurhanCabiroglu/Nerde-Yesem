@@ -35,15 +35,11 @@ In this project, it is aimed to take the user's location and show all the inform
 <img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/launchScreen.png" width="300">
 
 #### 1) To use application, first of all you must create an account
-<img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/loginScreen.png" width="300">
-<img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/signUpScreen.png" width="300">
+<img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/loginScreen.png" width="300"><img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/signUpScreen.png" width="300">
 
 
 #### 2) After creating an account you can login
-<img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/loginScreen.png" width="300">
-<img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/error.png" width="300">
-<img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/faceid.png" width="300">
-<img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/success.png" width="300">
+<img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/loginScreen.png" width="300"><img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/error.png" width="300"><img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/faceid.png" width="300"><img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/success.png" width="300">
 
 
 #### 4) After entering your information correctly, the dashboard screen will open. This screen will contain the names of the restaurants you have visited in the past and the restaurant search button.
