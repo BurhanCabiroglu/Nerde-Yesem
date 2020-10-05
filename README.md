@@ -53,8 +53,7 @@ In this project, it is aimed to take the user's location and show all the inform
 
 
 #### 6) After Clicked Any Restaurant, Displaying Informations
-<img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/showRest.png" width="300">
-<img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/showRest2.png" width="300">
+<img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/showRest.png" width="300"><img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/showRest2.png" width="300">
 
-#### 7) Preferences Page
+#### 7) Preferences Page. You can login with touch id or face id, Id you want.
 <img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/settings.png" width="300">
