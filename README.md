@@ -1,36 +1,36 @@
 # Nerde Yesem Application
 "Nerde Yesem Application" that designed with Swift
 
-#### ABSTRACT
+### ABSTRACT
 
 In this project, it is aimed to take the user's location and show all the information about the nearest restaurants.
 
 
-### PAGES && CLASS && FRAMEWORKS
+## PAGES, CLASSES && FRAMEWORKS
 
 #### CLASSES && STRUCTS
-  • WebService Class
-  • UserModel Class
-  • StaticModel Class
-  • Place Struct
+    • WebService Class
+    • UserModel Class
+    • StaticModel Class
+    • Place Struct
 
 #### VIEW CONTROLLERS
-  • LocationViewController
-  • HomeViewController
-  • ViewController
-  • SignUpViewController
-  • PreferencesViewController
+    • LocationViewController
+    • HomeViewController
+    • ViewController
+    • SignUpViewController
+    • PreferencesViewController
   
 
 #### FRAMEWORKS
-  • MapKit
-  • LocationManager
-  • FaceID and TouchID 
-  • Firebase
-  • Firestore
+    • MapKit
+    • LocationManager
+    • FaceID and TouchID 
+    • Firebase
+    • Firestore
   
 
-#### TESTS
+## USER MANUEl
 
 
 ##### Angry
