@@ -52,12 +52,9 @@ In this project, it is aimed to take the user's location and show all the inform
 <img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/showLoc.png" width="300">
 
 
-#### 6) To use application, first of all you must create an account
-![6](https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/signUpScreen.png)
+#### 6) After Clicked Any Restaurant, Displaying Informations
+<img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/showRest.png" width="300">
+<img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/showRest2.png" width="300">
 
-
-#### 7) To use application, first of all you must create an account
-![7](https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/signUpScreen.png)
-
-
-
+#### 7) Preferences Page
+<img src="https://github.com/BurhanCabiroglu/Nerde-Yesem/blob/main/images/settings.png" width="300">
